@@ -1,5 +1,4 @@
-# lab_01
---------------------------------
+
 # Movie Recommendation System
 
 A content-based movie recommendation system built with Python and machine learning techniques.
